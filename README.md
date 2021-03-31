@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaungannon3
 - 👀 I’m interested in computing, fitness, podcasts, and online education.
 - 🌱 I’m currently learning how to build a compiler and operating system (thanks to Nand2Tetris Part 2 on Coursera :) )
-- 💞️ I’m looking to collaborate on building interesting pieces of software using Python!
+- 💞️ I’m looking to collaborate on interesting projects using Python!
 - 📫 How to reach me ... shaun.gannon3@gmail.com
 
 <!---

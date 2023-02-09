@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaungannon3
-- 👀 I’m interested in computing, fitness, podcasts, and online education.
+- 👀 I’m interested in computing, fitness, podcasts, and education.
 - 📫 How to reach me ... gannonsh@seas.upenn.edu
 
 <!---
